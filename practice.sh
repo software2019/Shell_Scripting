@@ -40,12 +40,3 @@ test='testing a long string'
 # export test
 # echo $test
 
-
-
-
-
-
-
-
-
-
